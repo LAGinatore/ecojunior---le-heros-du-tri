@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="Photo" src="https://laginatore.me/Portfolio/photo_2025-04-24_16-06-52.png" />
+<img width="100" height="100" alt="Photo" src="https://laginatore.me/Portfolio/photo_2025-04-24_16-06-52.png" />
 </div>
 
 # Run and deploy your  app
