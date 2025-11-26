@@ -2,10 +2,12 @@
 <img width="400" height="400" alt="Photo" src="https://laginatore.me/Portfolio/photo_2025-04-24_16-06-52.png" />
 </div>
 
-# Run and deploy your  app
+<div align="center">
 
-This contains everything you need to run your app locally.
+# This contains everything you need to run this app locally
 
+
+</div>
 
 ## Run Locally
 
@@ -14,6 +16,17 @@ This contains everything you need to run your app locally.
 
 1. Install dependencies:
    `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
+2. Run the app:
    `npm run dev`
+
+## Optional
+
+
+To enable AI features
+
+1. create a file named `.env.local`
+
+2. copy the following command
+   `GEMINI_API_KEY=Place your GEMINI_API_KEY here`
+
+3. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
