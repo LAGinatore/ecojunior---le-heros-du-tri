@@ -1,0 +1,8 @@
+{
+  "name": "EcoJunior - Le Héros du Tri",
+  "description": "Une application éducative et ludique pour apprendre aux enfants à trier les déchets et protéger la planète.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
