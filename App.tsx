@@ -98,7 +98,7 @@ export default function App() {
 
       {/* Footer */}
       <footer className="py-6 text-center text-slate-400 text-xs md:text-sm px-4">
-        <p>Mini Projet L3 Informatique 2025 - Université Oran 1 </p> <p> by BENHACHEM Mounis Karim Elghali</p>
+        <p>Mini Projet L3 Informatique 2025 - Université Oran 1 </p> <p> by BENHACHEM Mounis Karim Elghali</p> <p>and Banouri Mohammed said</p>
       </footer>
     </div>
   );

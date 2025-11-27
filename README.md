@@ -1,5 +1,5 @@
 <div align="center">
-<img width="400" height="400" alt="Photo" src="https://laginatore.me/Portfolio/profile-pic.png" />
+<h1>EcoJunior</h1>
 </div>
 
 <div align="center">
